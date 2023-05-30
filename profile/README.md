@@ -76,8 +76,5 @@ The Ticket Coin Application is released under the MIT License. You are free to u
 # Support
 If you encounter any issues or have any questions, please open an issue on the GitHub repository for the Ticket Coin Application. Our team will be happy to assist you.
 
-# Acknowledgments
-We would like to thank the Solana community for their support and contributions to the development of the Ticket Coin Application.
-
 # Disclaimer
 The Ticket Coin Application is provided as-is without any warranty or guarantee of its fitness for a particular purpose. The developers of the application are not responsible for any loss or damage caused by its use. Use the application at your own risk.
