@@ -1,4 +1,6 @@
-# Ticket Coin Application
+# ![image](https://github.com/Web3athon-RareSkillers/.github/assets/38496991/cf6ee792-cfb4-4f90-a9d3-16b40c8136e0)
+
+
 
 
 Ticket Coin Application is a decentralized ticketing system built on the Solana blockchain. It enables the creation and verification of NFT tickets for events, ensuring the authenticity and security of tickets while providing a seamless entry process for users.
@@ -9,6 +11,12 @@ Ticket Coin Application: This is the application responsible for creating NFT ti
 
 TicketCoin Verifier App: This application is used by event staff or ticketing personnel to verify the authenticity of NFT tickets. By scanning the QR code or entering the ticket details, the app communicates with the Solana blockchain to ensure that the ticket is valid and has not been tampered with.
 
+## Socials:
+
+<p align="left" > 
+<a href="[https://twitter.com/0xTicketCoin](https://twitter.com/0xTicketCoin)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemangvora1" height="30" width="40" /></a> 
+</ p>
+ 
 # Features
 Creation of NFT Tickets: Event organizers can create NFT tickets for their events, defining the event details, ticket types, pricing, and other relevant information.
 
