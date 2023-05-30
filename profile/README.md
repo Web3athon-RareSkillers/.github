@@ -14,7 +14,7 @@ TicketCoin Verifier App: This application is used by event staff or ticketing pe
 ## Socials:
 
 <p align="left" > 
-<a href="[https://twitter.com/0xTicketCoin](https://twitter.com/0xTicketCoin)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemangvora1" height="30" width="40" /></a> 
+ <a href="https://twitter.com/0xTicketCoin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemangvora1" height="30" width="40" /></a>
 </ p>
  
 # Features
